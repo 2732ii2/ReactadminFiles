@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+#_00{
+    border-bottom-width: 50%;
+    border-bottom: 1px solid #6B5ED2;
+}
+.lss{
+    width: 100%;
+    height: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.lssh1,#lssp{
+    font-size: 10px;
+    margin-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: 700; */
+    line-height: 16px;
+    letter-spacing: 1.5px;
+}
+#lssp{
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.LP{
+    width: 100%;
+    height: 90%;
+    display: flex;
+    overflow-x: hidden;
+    /* background: #E2E4F0; */
+    /* border: 1px solid black; */
+}
+.LeftLp{
+    width: 21%;
+    display: flex;
+    /* justify-content: center; */
+    align-items: left;
+    padding-left: 20px;
+    flex-direction: column;
+    height: 100%;
+    /* border: 1px solid black; */
+}
+#char_{
+    width: 90%;
+    cursor: pointer;
+    height: 48%;
+    /* border: 1px solid black; */
+    margin-top: 2%;
+    display:flex;
+    flex-direction: column;
+    /* box-shadow: 0 21px 42px -10px ; */
+    box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+}
+.RightLp{
+    width: 80%;
+    background: #EEF1FA;
+    height: 100%;
+    display: flex;
+    padding: 20px;
+    /* justify-content: center; */
+    align-items: center;
+    position: relative;
+    flex-direction: column;
+    border-radius: 73px 0px 0px 73px;
+}
+#LPH{
+  font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    margin-top: 7%;
+/* margin-top: 91px; */
+font-weight: 4000;
+width: 80%;
+/* border: 1px solid black; */
+}
+.earning_total{
+    width: 90%;
+    margin-top: 15px;
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: column;
+    height:23%;
+    background: #8676FF;
+    box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+border-radius: 10px;
+}
+.top_{
+    width: 100%;
+    height: 50%;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 7px;
+    /* border-bottom: 1px solid black; */
+}
+#h3top{
+    color:white;
+    font-family: 'Poppins';
+    font-style: normal;
+    /* font-weight: 300; */
+    font-size: 14px;
+    line-height: 24px;
+}
+#h5top{
+    font-family: 'Poppins';
+    font-style: normal;
+    color:white;
+    /* font-weight: 400; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    font-size: 34px;
+    line-height: 34px;
+}
+#h5s{
+    display: flex;
+    align-items: flex-end;
+    font-size: 14px;
+    font-family: 'Roboto';
+    /* font-weight: 2000; */
+    color:#38F261;
+}
+#h6top{font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+color:white;
+font-size: 12px;
+line-height: 16px;}
+.last_earning_total{
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:12%;
+    padding: 10px;
+   background: #FFFFFF;
+/* Widget shadow */
+box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+border-radius: 10px;
+}
+.col{
+    display: flex;
+    justify-content: space-between;
+    /* flex-direction: column; */
+   
+
+}
+#first{
+    width: 40%;
+    display: flex;
+    height: 100%;
+    /* border: 1px solid red; */
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#first_col{
+    font-size: 14px;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
