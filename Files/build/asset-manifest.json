@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BestReactAdminDashBoard/static/css/main.706235e3.css",
+    "main.js": "/BestReactAdminDashBoard/static/js/main.f203fee2.js",
+    "static/js/787.8405c9f9.chunk.js": "/BestReactAdminDashBoard/static/js/787.8405c9f9.chunk.js",
+    "index.html": "/BestReactAdminDashBoard/index.html",
+    "main.706235e3.css.map": "/BestReactAdminDashBoard/static/css/main.706235e3.css.map",
+    "main.f203fee2.js.map": "/BestReactAdminDashBoard/static/js/main.f203fee2.js.map",
+    "787.8405c9f9.chunk.js.map": "/BestReactAdminDashBoard/static/js/787.8405c9f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706235e3.css",
+    "static/js/main.f203fee2.js"
+  ]
+}
